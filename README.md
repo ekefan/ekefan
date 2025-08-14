@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ekefan.dev@gmail.com**
 
-- ⚡ Fun fact **X is not an ideal place to get opinions about engineering topics, but I love it, follow me for awesome tweets though**
+- ⚡ Fun fact **is that, X is not an ideal place to get opinions about engineering topics, but I love it, follow me for awesome tweets though**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
