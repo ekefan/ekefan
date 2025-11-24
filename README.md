@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ebenezer</h1>
 <h3 align="center">Software Engineer | Cloud Infra & Applied AI</h3>
 
-- 👯 I’m looking to collaborate on **Cloud native project especially about observability**
-
-- 💬 Ask me about **Engineering memory for AI agents**
+- 💬 Ask me about **Engineering memory for AI agents**, I've been working on a personal fianance AI Agent Lately.
 
 - 📫 How to reach me **ekefan.dev@gmail.com**
 
