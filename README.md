@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_ekefan" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="_ekefan" height="30" width="40" />
+<a href="https://x.com/dev_ekefan" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="_ekefan" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/emmanuelebenezer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelebenezer" height="30" width="40" />
-</a>
+<!-- <a href="https://linkedin.com/in/emmanuelebenezer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelebenezer" height="30" width="40" />
+</a> -->
 </p>
 <br>
 
